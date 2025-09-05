@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dudu-Santos
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Programação FULL STACK
-- 💞️ I’m looking to collaborate on site creation/development
+- 💞️ I’m looking to collaborate on site www.estruturainfo.com.br
 - 📫 How to reach me eduardorlsantos@gmail.com
 
 <!---
